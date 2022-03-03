@@ -1,0 +1,56 @@
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 3
+List Capacity :4
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+
+
+
+Prof. :Yang		Class Name :Data Structure
+-------------------------------------------------------------------
+Total number of students : 2
+List Capacity :2
+
+Biden		2020123124
+Trump		2020123125
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 3
+List Capacity :4
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+
+
+
+Prof. :Hwang		Class Name :Artificial Intelligence
+-------------------------------------------------------------------
+Total number of students : 5
+List Capacity :8
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+Siri		2020123126
+Bixby		2020123127
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 3
+List Capacity :4
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+
+
+

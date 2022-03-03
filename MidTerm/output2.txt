@@ -1,0 +1,5 @@
+Average age of students who can receive scholarship : 21.50
+***********************
+Display Eldest Students
+***********************
+jennykim	2020147595	23	4.10

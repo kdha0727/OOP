@@ -1,0 +1,29 @@
+add complete
+full seat
+add complete
+wrong input
+delete complete
+current vacant seats
+first class: 2/5
+business class: 11/25
+economy class: 50/50
+first class
+XXXOO
+business class
+XXXXX
+XXXXX
+XXXXO
+OOOOO
+OOOOO
+economy class
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+OOOOO
+end the program

@@ -1,0 +1,113 @@
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 0
+List Capacity :0
+
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 1
+List Capacity :1
+
+Moon		2020123123
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 2
+List Capacity :2
+
+Moon		2020123123
+Biden		2020123124
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 3
+List Capacity :4
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 4
+List Capacity :4
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+Siri		2020123126
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 5
+List Capacity :8
+
+Moon		2020123123
+Biden		2020123124
+Trump		2020123125
+Siri		2020123126
+Bixby		2020123127
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 4
+List Capacity :4
+
+Biden		2020123124
+Trump		2020123125
+Siri		2020123126
+Bixby		2020123127
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 3
+List Capacity :4
+
+Biden		2020123124
+Siri		2020123126
+Bixby		2020123127
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 2
+List Capacity :2
+
+Biden		2020123124
+Siri		2020123126
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 1
+List Capacity :1
+
+Biden		2020123124
+
+
+
+Prof. :Kim		Class Name :OOP
+-------------------------------------------------------------------
+Total number of students : 0
+List Capacity :0
+
+
+
+

@@ -1,0 +1,24 @@
+### Problem 1 ###
+5 in decimal: 5
+4 in decimal: 4
+Num1 + Num2: 12
+Num1 - Num2: 1
+Num1 * Num2: 26
+Num1 / Num2: 1
+
+### Problem 2 ###
+25 in decimal: 19
+15 in decimal: 12
+Num1 + Num2: 43
+Num1 - Num2: 10
+Num1 * Num2: 444
+Num1 / Num2: 1
+
+### Problem 3 ###
+66 in decimal: 48
+10 in decimal: 7
+Num1 + Num2: 106
+Num1 - Num2: 56
+Num1 * Num2: 660
+Num1 / Num2: 6
+
